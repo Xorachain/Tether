@@ -1,0 +1,32 @@
+[
+  {
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "address_label": "Binance-Peg BSC-USD (BSC-USD)",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": "18",
+    "logo": "https://logo.moralis.io/0x38_0x55d398326f99059ff775485246999027b3197955_017c31aed33715dffcd9c5175133fbdb.png",
+    "logo_hash": null,
+    "thumbnail": "https://logo.moralis.io/0x38_0x55d398326f99059ff775485246999027b3197955_017c31aed33715dffcd9c5175133fbdb.png",
+    "total_supply": "5184995121731291427965448057",
+    "total_supply_formatted": "5184995121.731291427965448057",
+    "fully_diluted_valuation": "5179884850.57",
+    "block_number": "176416",
+    "validated": 1,
+    "created_at": "2020-09-04T06:30:28.000Z",
+    "possible_spam": false,
+    "verified_contract": true,
+    "categories": [
+      "Stablecoins",
+      "Exchange-Issued Asset Tokens",
+      "Asset-backed Tokens"
+    ],
+    "links": {
+      "reddit": "https://www.reddit.com",
+      "website": "https://bscscan.com/token/0x55d398326f99059ff775485246999027b3197955",
+      "moralis": "https://moralis.com/chain/binance/token/price/0x55d398326f99059ff775485246999027b3197955"
+    },
+    "security_score": 88,
+    "description": null
+  }
+]
